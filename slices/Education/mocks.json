@@ -1,0 +1,58 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "FieldContent",
+				"value": "inside",
+				"type": "Text"
+			}
+		},
+		"items": [
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": [
+					[
+						"time_period",
+						{
+							"__TYPE__": "FieldContent",
+							"value": "railroad",
+							"type": "Text"
+						}
+					],
+					[
+						"institution",
+						{
+							"__TYPE__": "FieldContent",
+							"value": "eleven",
+							"type": "Text"
+						}
+					],
+					[
+						"title",
+						{
+							"__TYPE__": "FieldContent",
+							"value": "desk",
+							"type": "Text"
+						}
+					],
+					[
+						"description",
+						{
+							"__TYPE__": "StructuredTextContent",
+							"value": [
+								{
+									"type": "paragraph",
+									"content": {
+										"text": "Dolore veniam laborum deserunt occaecat laboris est ut laborum mollit sint labore. Adipisicing nostrud exercitation laboris sint ipsum do voluptate Lorem ex aliqua culpa cillum eu ullamco. Duis et mollit magna et et do ut Lorem ex excepteur laboris ad."
+									}
+								}
+							]
+						}
+					]
+				]
+			}
+		]
+	}
+]
